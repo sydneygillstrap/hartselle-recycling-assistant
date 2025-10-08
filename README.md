@@ -1,1 +1,0 @@
-# hartselle-recycling-assistant
