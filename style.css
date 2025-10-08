@@ -1,6 +1,6 @@
 /* Hartselle Colors */
 :root {
-    --cardinal: #C41E3A; /* Primary Color */
+    --cardinal: #A00000; /* PRIMARY: Deep Cardinal/Crimson */
     --white: #FFFFFF;
     --dark-text: #333333;
     --recycling-green: #00A86B; /* Accent for Environmental Focus */
@@ -107,7 +107,7 @@ main h2 {
 
 /* Card for Problem Description */
 .card {
-    background-color: #ffe0e6; /* Very light cardinal background */
+    background-color: #F0D0D0; /* Very light, adjusted cardinal background */
     border-left: 5px solid var(--cardinal);
     padding: 15px;
     border-radius: 4px;
